@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+shift+'"], "command": "alignment" },
+    { "keys": ["ctrl+f11"], "command": "toggle_full_screen" },
+    { "keys": ["alt+m"], "command": "toggle_menu" },
+    { "keys": ["alt+n"], "command": "toggle_minimap" },
+    { "keys": ["alt+p"], "command": "prompt_select_workspace" },
+]

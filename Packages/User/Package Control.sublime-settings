@@ -1,0 +1,52 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"osx":
+		[
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"Base16 Color Schemes",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"Laravel 5 Snippets",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"MoveTab",
+		"Package Control",
+		"phpfmt",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight",
+		"Xdebug Client"
+	]
+}

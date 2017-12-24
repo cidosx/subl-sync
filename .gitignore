@@ -1,0 +1,17 @@
+/*
+!.gitignore
+!Installed\ Packages
+!Packages
+!.desktop
+
+Packages/User/SublimeLinter/*.tmTheme
+Packages/User/Xdebug.breakpoints
+Packages/User/Xdebug.log
+SublimeCodeIntel/
+Package Control.cache/
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+encoding_cache.json
+c2u_tmp/
+PyV8/

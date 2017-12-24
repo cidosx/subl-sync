@@ -1,0 +1,26 @@
+{
+	"autocomplete": true,
+	"enable_auto_align": false,
+	"format_on_save": false,
+	"indent_with_space": true,
+	"passes":
+	[
+		"AddMissingParentheses",
+		"AutoSemicolon",
+		"DoubleToSingleQuote",
+		"IndentTernaryConditions",
+		"NewLineBeforeReturn",
+		"RemoveSemicolonAfterCurly",
+		"RemoveUseLeadingSlash",
+		"ShortArray",
+		"SpaceAroundExclamationMark",
+		"SpaceBetweenMethods",
+		"StripSpaceWithinControlStructures",
+		"StripNewlineWithinClassBody",
+		"TightConcat",
+		"TrimSpaceBeforeSemicolon",
+		"YodaComparisons"
+	],
+	"psr2": true,
+	"version": 2
+}
