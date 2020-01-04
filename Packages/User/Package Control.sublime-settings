@@ -45,6 +45,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-php",
 		"Vue Syntax Highlight",
 		"Xdebug Client"
